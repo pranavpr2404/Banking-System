@@ -37,9 +37,4 @@ This project is a simple yet robust Banking system implemented in C++ utilizing 
 ### Contribution:
 Contributions are welcome! Feel free to submit issues or pull requests for any improvements or additional features you'd like to see.
 
-### License:
-This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize this description according to your project's specific features, technology stack, and licensing information.

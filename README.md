@@ -1,6 +1,4 @@
 # Banking-System
-Certainly! Here's a description for a Banking system developed in C++ with the help of OOPs concepts, suitable for the README section on GitHub:
-
 ---
 
 ## Banking System in C++ using Object-Oriented Programming (OOPs)
